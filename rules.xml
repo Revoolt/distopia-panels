@@ -1,0 +1,47 @@
+<configs>
+
+    <append xpath="/news">
+
+        <panel width="900" height="600">
+
+            <sprite sprite="menu_empty3px"
+                    type="sliced"
+                    fillcenter="true"
+                    color="0,0,0,220"/>
+
+
+            <label text="DISTOPIA | NORMAS DEL SERVIDOR"
+                   font_size="40"
+                   justify="center"
+                   pos="0,-40"/>
+
+
+            <label text="Servidor PvE obligatorio"
+                   pos="-300,-140"
+                   font_size="24"/>
+
+
+            <label text="Respeto entre supervivientes"
+                   pos="-300,-180"
+                   font_size="24"/>
+
+
+            <label text="No griefing ni exploits"
+                   pos="-300,-220"
+                   font_size="24"/>
+
+
+            <label text="No construir en traders"
+                   pos="-300,-260"
+                   font_size="24"/>
+
+
+            <label text="Mantener bases limpias"
+                   pos="-300,-300"
+                   font_size="24"/>
+
+        </panel>
+
+    </append>
+
+</configs>

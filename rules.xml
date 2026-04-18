@@ -1,42 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<configs>
+<news>
 
-    <rule_group name="distopia">
+<page>
+<title>DISTOPIA RULES</title>
 
-        <rule>
-            <title>DISTOPIA PvE SERVER</title>
-            <text>Servidor PvE cooperativo con economía integrada.</text>
-        </rule>
+<text>
+Respect all players
+PvE server environment
+No griefing
+No cheating
+No exploits
+Admin decisions final
+Join Discord for support
+Enjoy survival
+</text>
 
-        <rule>
-            <title>REGLAS PRINCIPALES</title>
-            <text>
-            • PvE obligatorio
-            • Respeto entre jugadores
-            • No griefing
-            • No exploits
-            • No construir en traders
-            </text>
-        </rule>
+</page>
 
-        <rule>
-            <title>EVENTOS ACTIVOS</title>
-            <text>
-            • Airdrops especiales
-            • Eventos automáticos
-            • Recompensas diarias
-            </text>
-        </rule>
-
-        <rule>
-            <title>COMUNIDAD</title>
-            <text>
-            Discord activo
-            Soporte admin diario
-            Eventos fin de semana
-            </text>
-        </rule>
-
-    </rule_group>
-
-</configs>
+</news>
